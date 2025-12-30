@@ -26,16 +26,18 @@ $${\color{#00bfbf}\large\textbf{Habilidades Principais:}}$$
 
 
 <br><br>
- 
+# 
+
 $${\color{#00bfbf}\large\textbf{Ferramentas:}}$$
 
 <br><br>
- 
+#
 $${\color{#00bfbf}\large\textbf{Outros conehcimentos:}}$$
 
-###
 
 <br><br>
+#
+
 $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 
 <br><br>
