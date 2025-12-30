@@ -53,4 +53,8 @@ ${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
+<<<<<<< HEAD
 [![Visualizações do perfil Osiris Eletrônica](https://u8views.com/api/v1/github/profiles/251662631/views/day-week-month-total-count.svg)](https://u8views.com/github/Osiris-Eletrônica)
+=======
+[![Visualizações do perfil Osiris Eletrônica](https://u8views.com/api/v1/github/profiles/251662631/views/day-week-month-total-count.svg)](https://u8views.com/github/Osiris-Eletrônica)
+>>>>>>> d89b631f18bb01e567c26ddef82ceac75892af0d
