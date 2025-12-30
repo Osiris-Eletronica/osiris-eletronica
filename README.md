@@ -36,7 +36,7 @@ $${\color{#00bfbf}\large\textbf{Outros conehcimentos:}}$$
 ###
 
 <br><br>
-$${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}\\[10px]$$
+$${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 
 <br><br>
 
