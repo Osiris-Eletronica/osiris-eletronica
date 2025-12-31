@@ -8,7 +8,9 @@
 
   $${\color{#fc0303}\Large\textbf{😇  Take ease! 😜}}$$
 
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1d652eb1-3473-466d-8b3c-732a159891d5" alt="Image">
+</div>
 
 ---
 <br>
