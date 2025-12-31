@@ -46,7 +46,10 @@ $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 <br><br>
 
 ---
-
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0b2e33ee-3ab5-4458-b106-960ccf7d5984" alt="Image">
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
