@@ -44,7 +44,7 @@ $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 ---
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0b2e33ee-3ab5-4458-b106-960ccf7d5984" alt="Image">
+  <img width="400" height="495" alt="Image" src="https://github.com/user-attachments/assets/96ce7b24-b88e-4c87-afdb-98da05c0706f" />
 </div>
 
 
