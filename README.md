@@ -2,7 +2,7 @@
 
 
 
-  $${\color{#fc0303}\Large\textbf{Viver a vida é arte, dividir é uma dádiva.}}$$
+  $${\color{#28bd45}\Large\textbf{Viver a vida é arte, dividir é uma dádiva.}}$$
 
 <br><br>
 <div align="center">
