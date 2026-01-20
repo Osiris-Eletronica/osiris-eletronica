@@ -31,7 +31,7 @@ $${\color{#00bfbf}\large\textbf{Ferramentas:}}$$
 
 <br><br>
 #
-$${\color{#00bfbf}\large\textbf{Outros conehcimentos:}}$$
+$${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
 
 <br><br>
