@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 
 <div>
-<p align="center" style="color:#28bd45; font-size: 100px;">
+<p align="center" style="color:#28bd45; font-size: 40px;">
     Viver a vida é arte, dividir é uma dádiva.
 </p>
 
@@ -76,10 +74,6 @@ $${\color{#00bfbf}\large\textbf{Temas para Técnicos em Eletrônica:}}$$
 
 <div align="center">
   <img width="400" height="495" alt="Image" src="https://github.com/user-attachments/assets/96ce7b24-b88e-4c87-afdb-98da05c0706f" />
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
+  
 <br><br>
 [![Visualizações do perfil Osiris Eletrônica](https://u8views.com/api/v1/github/profiles/251662631/views/day-week-month-total-count.svg)](https://u8views.com/github/Osiris-Eletrônica)
