@@ -1,9 +1,8 @@
 
 &nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=50&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+página+:%29;Fique+à+vontade+para+conferir;E+contribuir,+se+assim+desejar)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=38&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+página+:%29;)](https://git.io/typing-svg)  
 
-<br><br>
 <div align="center">
    <img width="400" height="589" alt="Image" src="https://github.com/user-attachments/assets/119883c0-5816-4eb1-bf41-1acb70738df4" />
 </div>
@@ -16,8 +15,7 @@ $${\color{#00bfbf}\large\textbf{Estatísticas:}}$$
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osiris-eletronica&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
-<br>
+
 
 $${\color{#00bfbf}\large\textbf{Habilidades Principais:}}$$
 
