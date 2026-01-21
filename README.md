@@ -1,10 +1,10 @@
 
 &nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=36&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+minha+página.Eu+não+sou+Robô:%29;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=36&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+minha+página.++:%29;)](https://git.io/typing-svg)  
 
 <div align="center">
-   <img src="assets/images/ferramentas-eletrônica.png" width="900" title="Manutenção e consertos de placas digitais e programação.">
+   <img src="assets/images/ferramentas-eletrônica.png" width="850" title="Manutenção e consertos de placas digitais e programação.">
 </div>
 
 
@@ -34,7 +34,8 @@ ______
 
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
-<img src="assets/images/Mecatronica_01.jpg" width="200" title="Mecatrônica"> &nbsp;&nbsp; <img src="assets/images/introducao-em-robotica.jpg" width="285" title="Estou estudando, então estou tendo conhecimento">
+<img src="assets/images/ot-contrib-stm.png" width="120" title=""> &nbsp;&nbsp; <img src="assets/images/Código em C++.png" width="140" title=""> &nbsp;&nbsp; <img src="assets/images/VS Studio logo.png" width="200" title="">
+ &nbsp;&nbsp; <img src="assets/images/platformio-labs.png" width="150" title="">
 
 ___
 
@@ -42,8 +43,10 @@ ___
 $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 
 
-<img src="assets/images/Robótica.png" width="285" title="Conhecimento é tudo."> 
 
+<div align="center">
+  <img src="assets/images/introducao-em-robotica.jpg" width="300" title="Introdução a conhecimento é tudo."> 
+</div>
 
 
 ---   
