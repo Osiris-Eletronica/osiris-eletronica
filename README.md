@@ -36,6 +36,7 @@ $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
 <img src="assets/images/ot-contrib-stm.png" width="120" title=""> &nbsp;&nbsp; <img src="assets/images/Código em C++.png" width="140" title=""> &nbsp;&nbsp; <img src="assets/images/VS Studio logo.png" width="200" title="">
  &nbsp;&nbsp; <img src="assets/images/platformio-labs.png" width="150" title="">
+ &nbsp;&nbsp; <img src="assets/images/MD.png" width="115" title="">
 
 ___
 
