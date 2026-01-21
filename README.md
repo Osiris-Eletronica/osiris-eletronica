@@ -38,8 +38,7 @@ ______
 
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
-<img src="assets/images/Cinema4D_2 logo.png" width="200" title="">
- &nbsp;&nbsp; <img src="assets/images/OBS logo.png" width="350" title="">
+<img src="assets/images/Cinema4D_2 logo.png" width="200" title=""> &nbsp;&nbsp; <img src="assets/images/OBS logo.png" width="350" title="">
 
 ___
 
