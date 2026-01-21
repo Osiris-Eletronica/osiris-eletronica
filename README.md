@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-  $${\color{#28bd45}\Large\textbf{Viver a vida é arte, dividir é uma dádiva.}}$$
+<div>
 
+  <h1 style="color:#28bd45;">Viver a vida é arte, dividir é uma dádiva.</h1>
+  
+</div>
 
 <br><br>
 <div align="center">
