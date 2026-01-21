@@ -39,7 +39,7 @@ ______
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
 <img src="assets/images/Cinema4D_2 logo.png" width="115" title="Conhecimento em modelagem 3D com Cinema 4D."> &nbsp;&nbsp; <img src="assets/images/OBS logo.png" width="200" title="OBS Studio para gravação de tela e transmissão ao vivo.
-"> &nbsp;&nbsp; <img src="assets/images/natron.jpg" width="280" title="oftware Open Source para composição e efeitos visuais (VFX).
+"> &nbsp;&nbsp; <img src="assets/images/natron.jpg" width="280" title="Software Open Source para composição e efeitos visuais (VFX).
 "> 
 
 
