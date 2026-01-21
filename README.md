@@ -38,15 +38,15 @@ $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
 <img src="assets/images/Mecatronica_01.jpg" width="200" title="Mecatrônica"> &nbsp;&nbsp; <img src="assets/images/introducao-em-robotica.jpg" width="285" title="Estou estudando, então estou tendo conhecimento">
 
-<br><br>
+___
+
+<br>
 
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
 
 
-<br><br>
-
-
+<br>
 
 ___
 $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
@@ -68,7 +68,7 @@ $${\color{#00bfbf}\large\textbf{Temas para Técnicos em Eletrônica:}}$$
 
 <br><br>
 
----
+
 <br>
 <div align="center">
   <img width="400" height="495" alt="Image" src="https://github.com/user-attachments/assets/96ce7b24-b88e-4c87-afdb-98da05c0706f" />
