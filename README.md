@@ -2,7 +2,7 @@
 
 
 <div>
-<p align="center" style="color:#28bd45; font-size: 30px;">
+<p align="center" style="color:#28bd45; font-size: 100px;">
     Viver a vida é arte, dividir é uma dádiva.
 </p>
 
