@@ -19,7 +19,7 @@ $${\color{#00bfbf}\large\textbf{Estatísticas:}}$$
 
 $${\color{#00bfbf}\large\textbf{Habilidades Principais:}}$$
 
-<img src="assets/images/Placa_01.jpg" width="200" title="Manutenção e consertos de placas digitais."> &nbsp;&nbsp; <img src="assets/images/PCB.jpg" width="200" title="Conserto de circuitos analógicos">
+<img src="assets/images/Placa_01.jpg" width="200" title="Manutenção e consertos de placas digitais."> &nbsp;&nbsp; <img src="assets/images/PCB.jpg" width="200" title="Conserto de circuitos analógicos"> &nbsp;&nbsp;<img src="assets/images/placa-eletronica.png" width="200" title="Analizar circuitos é a minha paixão.">&nbsp;&nbsp;<img src="assets/images/Imagem representa o que faço.JPG" width="175" title="O que sempre gosto de fazer nas horas vagas.">
 
 <br>
 
