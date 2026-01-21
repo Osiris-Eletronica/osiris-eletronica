@@ -28,7 +28,7 @@ ___
 
 $${\color{#00bfbf}\large\textbf{Ferramentas:}}$$
 
-<img src="assets/images/ot-contrib-stm.png" width="100" title="Aplicativo compilado da STM Eletronics"> &nbsp;&nbsp;
+
 <img src="assets/images/Orcad_X.png" width="230" title="Para design Eletrônica"> &nbsp;&nbsp;<img src="assets/images/Proteus Logo.jpg" width="100" title="Editor e simulador para circuitos eletrônicos"> &nbsp;&nbsp;<img src="assets/images/altium_logo.png" width="180" title="Software profissional para Design de PCBs"> &nbsp;&nbsp;<img src="assets/images/KiCad-Logo.png" width="260" title="Editor de circuitos eletrônicos, ainda não é um Proteus da vida, mas está chegando lá!">
  &nbsp;&nbsp; <img src="assets/images/STMCubeIde.png" width="200" title="Ferramenta de desenvolvimento completa com recursos de configuração de IP, geração de código, compilação de código e depuração">
  &nbsp;&nbsp; <img src="assets/images/STM32CubeMx.png" width="200" title="Ferramenta gráfica de configuração de software que permite a geração automática de código de inicialização em C usando assistentes gráficos"> <img src="assets/images/ " width="370" title=""> &nbsp;&nbsp; <img src="assets/images/Código em C++.png" width="140" title=""> &nbsp;&nbsp; <img src="assets/images/VS Studio logo.png" width="200" title="">
@@ -38,7 +38,7 @@ ______
 
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
-<img src="assets/images/Cinema4D_2 logo.png" width="200" title=""> &nbsp;&nbsp; <img src="assets/images/OBS logo.png" width="350" title="">
+<img src="assets/images/Cinema4D_2 logo.png" width="115" title=""> &nbsp;&nbsp; <img src="assets/images/OBS logo.png" width="200" title=""> &nbsp;&nbsp; <img src="assets/images/natron.jpg" width="280" title=""> 
 
 ___
 
