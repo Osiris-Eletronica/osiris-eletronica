@@ -12,6 +12,13 @@
 ---
 <br>
 
+
+  $${\color{#fc0303}\Large\textbf{😇  Take ease! 😜}}$$
+
+
+---
+<br>
+
 $${\color{#00bfbf}\large\textbf{Estatísticas:}}$$
 
 ![Typing SVG](https://github-readme-stats-eight-theta.vercel.app/api?username=Osiris-Eletronica&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt=br)
@@ -23,21 +30,48 @@ $${\color{#00bfbf}\large\textbf{Estatísticas:}}$$
 
 $${\color{#00bfbf}\large\textbf{Habilidades Principais:}}$$
 
+<img src="assets/images/Placa_01.jpg" width="200" title="Manutenção e consertos de placas digitais."> &nbsp;&nbsp; <img src="assets/images/PCB.jpg" width="200" title="Conserto de circuitos analógicos">
 
-<br><br>
-# 
+<br>
+
+___
 
 $${\color{#00bfbf}\large\textbf{Ferramentas:}}$$
 
-<br><br>
-#
-$${\color{#00bfbf}\large\textbf{Outros conehcimentos:}}$$
+<img src="assets/images/Orcad_X.png" width="230" title="Para design Eletrônica"> &nbsp;&nbsp;<img src="assets/images/Proteus Logo.jpg" width="100" title="Editor e simulador para circuitos eletrônicos"> &nbsp;&nbsp;<img src="assets/images/altium_logo.png" width="180" title="Software profissional para Design de PCBs"> &nbsp;&nbsp;<img src="assets/images/KiCad-Logo.png" width="260" title="Editor de circuitos eletrônicos, ainda não é um Proteus da vida, mas está chegando lá!">
+
+<br>
+
+
+
+___
+
+$${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
+
+<img src="assets/images/Mecatronica_01.jpg" width="200" title="Mecatrônica"> &nbsp;&nbsp; <img src="assets/images/introducao-em-robotica.jpg" width="285" title="Estou estudando, então estou tendo conhecimento">
 
 
 <br><br>
-#
 
+
+
+___
 $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
+
+
+<img src="assets/images/introducao-em-robotica.jpg" width="285" title="Estou estudando, então estou tendo conhecimento"> 
+<br>
+
+<br><br>
+
+---   
+
+<br>
+
+$${\color{#00bfbf}\large\textbf{Temas para Técnicos em Eletrônica:}}$$
+
+
+<a href="assets/documents/ProtocoloParaEletronica.pdf">📄 Protocolo Técnico (PDF)</a>
 
 <br><br>
 
