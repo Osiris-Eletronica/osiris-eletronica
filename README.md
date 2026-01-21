@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=38&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+página+:%29;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=38&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+minha+página+:%29;)](https://git.io/typing-svg)  
 
 <div align="center">
    <img width="400" height="589" alt="Image" src="https://github.com/user-attachments/assets/119883c0-5816-4eb1-bf41-1acb70738df4" />
