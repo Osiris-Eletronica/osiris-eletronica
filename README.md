@@ -9,15 +9,7 @@
    <img width="400" height="589" alt="Image" src="https://github.com/user-attachments/assets/119883c0-5816-4eb1-bf41-1acb70738df4" />
 </div>
 
----
-<br>
-
-
-  $${\color{#fc0303}\Large\textbf{😇  Take ease! 😜}}$$
-
-
----
-<br>
+___
 
 $${\color{#00bfbf}\large\textbf{Estatísticas:}}$$
 
@@ -40,20 +32,16 @@ $${\color{#00bfbf}\large\textbf{Ferramentas:}}$$
 
 <img src="assets/images/Orcad_X.png" width="230" title="Para design Eletrônica"> &nbsp;&nbsp;<img src="assets/images/Proteus Logo.jpg" width="100" title="Editor e simulador para circuitos eletrônicos"> &nbsp;&nbsp;<img src="assets/images/altium_logo.png" width="180" title="Software profissional para Design de PCBs"> &nbsp;&nbsp;<img src="assets/images/KiCad-Logo.png" width="260" title="Editor de circuitos eletrônicos, ainda não é um Proteus da vida, mas está chegando lá!">
 
-<br>
-
-
-
-___
+______
 
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
 
 <img src="assets/images/Mecatronica_01.jpg" width="200" title="Mecatrônica"> &nbsp;&nbsp; <img src="assets/images/introducao-em-robotica.jpg" width="285" title="Estou estudando, então estou tendo conhecimento">
-=======
+
 <br><br>
-#
+
 $${\color{#00bfbf}\large\textbf{Outros conhecimentos:}}$$
->>>>>>> 81ceb3cbbc22f29351206cfd9281fb2fc329c2f2
+
 
 
 <br><br>
