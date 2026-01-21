@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=36&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+minha+página.++:%29;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=36&center=true&vcenter=true&width=1000&lines=Olá+Seja+bem+vindo+a+minha+página.++:%29;)](https://git.io/typing-svg)  
 
 <div align="center">
    <img src="assets/images/ferramentas-eletrônica.png" width="850" title="Manutenção e consertos de placas digitais e programação.">
