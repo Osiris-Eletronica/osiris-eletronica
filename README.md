@@ -38,7 +38,6 @@ ___
 
 $${\color{#00bfbf}\large\textbf{Ferramentas:}}$$
 
-<<<<<<< HEAD
 <img src="assets/images/Orcad_X.png" width="230" title="Para design Eletrônica"> &nbsp;&nbsp;<img src="assets/images/Proteus Logo.jpg" width="100" title="Editor e simulador para circuitos eletrônicos"> &nbsp;&nbsp;<img src="assets/images/altium_logo.png" width="180" title="Software profissional para Design de PCBs"> &nbsp;&nbsp;<img src="assets/images/KiCad-Logo.png" width="260" title="Editor de circuitos eletrônicos, ainda não é um Proteus da vida, mas está chegando lá!">
 
 <br>
