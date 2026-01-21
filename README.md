@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=38&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+minha+página+:%29;)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28bd44&size=36&center=true&vcenter=true&width=1000&lines=Olá+Seja+vindo+a+minha+página.Eu+não+sou+Robô:%29;)](https://git.io/typing-svg)  
 
 <div align="center">
    <img width="400" height="589" alt="Image" src="https://github.com/user-attachments/assets/119883c0-5816-4eb1-bf41-1acb70738df4" />
@@ -49,7 +49,7 @@ ___
 $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 
 
-<img src="assets/images/introducao-em-robotica.jpg" width="285" title="Estou estudando, então estou tendo conhecimento"> 
+<img src="assets/images/Robótica.png" width="285" title="Conhecimento é tudo."> 
 
 
 
