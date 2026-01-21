@@ -49,7 +49,7 @@ ___
 
 
 
-$${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
+$${\color{#00bfbf}\large\textbf{Estou estudando nesse no momento:}}$$
 
 
 
@@ -62,7 +62,7 @@ $${\color{#00bfbf}\large\textbf{Estou estudando esses no momento:}}$$
 
 
 
-$${\color{#00bfbf}\large\textbf{Temas para Técnicos em Eletrônica:}}$$
+$${\color{#00bfbf}\large\textbf{Termos para Técnicos em Eletrônica:}}$$
 
 
 ## <a href="assets/documents/ProtocoloParaEletronica.pdf" target="_blank">📄 Protocolo Técnico (PDF)</a>
